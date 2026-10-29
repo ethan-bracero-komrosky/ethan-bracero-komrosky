@@ -1,4 +1,5 @@
-## Hi! My name is Ethan Bracero-Komrosky. I'm an HSF Scholar, and a Statistis and Data Science at UCLA. 
+## Hi! My name is Ethan Bracero-Komrosky. 
+### I'm an HSF Scholar, and a Statistics and Data Science at UCLA. 
 
 I enjoy data cleaning, feature engineering, and predictive modeling across sports, finance, healthcare, and law.
 
