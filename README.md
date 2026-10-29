@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi! My name is Ethan Bracero-Komrosky. I'm an HSF Scholar, and a Statistis and Data Science at UCLA. 
+
+I enjoy data cleaning, feature engineering, and predictive modeling across sports, finance, healthcare, and law.
 
 <!--
 **ethan-bracero-komrosky/ethan-bracero-komrosky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
